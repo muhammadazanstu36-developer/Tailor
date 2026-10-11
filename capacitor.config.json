@@ -1,0 +1,6 @@
+{
+  "appId": "com.muhammadazan.jobtailor",
+  "appName": "Job Tailor",
+  "webDir": ".",
+  "server": { "androidScheme": "https" }
+}
